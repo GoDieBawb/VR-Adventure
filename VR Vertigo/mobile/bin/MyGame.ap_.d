@@ -29,6 +29,10 @@ C:\Users\Bawb\Documents\GitHub\VR Adventure\VR Vertigo\mobile\assets\Textures\di
 C:\Users\Bawb\Documents\GitHub\VR Adventure\VR Vertigo\mobile\assets\Textures\grass.jpg \
 C:\Users\Bawb\Documents\GitHub\VR Adventure\VR Vertigo\mobile\assets\Textures\road.jpg \
 C:\Users\Bawb\Documents\GitHub\VR Adventure\VR Vertigo\mobile\assets\Textures\terrain-alpha \
+C:\Users\Bawb\Documents\GitHub\VR Adventure\VR Vertigo\mobile\assets\Textures\tx_grass_01.png \
+C:\Users\Bawb\Documents\GitHub\VR Adventure\VR Vertigo\mobile\assets\Textures\terrain-alpha\Building-terrain-Building-alphablend0.png \
+C:\Users\Bawb\Documents\GitHub\VR Adventure\VR Vertigo\mobile\assets\Textures\terrain-alpha\Building-terrain-Building-alphablend1.png \
+C:\Users\Bawb\Documents\GitHub\VR Adventure\VR Vertigo\mobile\assets\Textures\terrain-alpha\Building-terrain-Building-alphablend2.png \
 C:\Users\Bawb\Documents\GitHub\VR Adventure\VR Vertigo\mobile\assets\Textures\terrain-alpha\Scene-terrain-Scene-alphablend0.png \
 C:\Users\Bawb\Documents\GitHub\VR Adventure\VR Vertigo\mobile\assets\Textures\terrain-alpha\Scene-terrain-Scene-alphablend1.png \
 C:\Users\Bawb\Documents\GitHub\VR Adventure\VR Vertigo\mobile\assets\Textures\terrain-alpha\Scene-terrain-Scene-alphablend2.png \

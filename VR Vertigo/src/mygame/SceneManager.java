@@ -34,7 +34,7 @@ public class SceneManager {
     
     private void loadScene() {
         scene = (Node) assetManager.loadModel("Scenes/Scene.j3o");
-        makeUnshaded(scene);
+        //makeUnshaded(scene);
         app.getRootNode().attachChild(scene);
         app.getCamera().setLocation(scene.getChild("CameraSpot").getWorldTranslation().add(0,2,0));
         app.getCamera().lookAt(new Vector3f(0,0,20) , new Vector3f(0,1,0));
